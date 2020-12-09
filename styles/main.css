@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  outline: 0;
+  border: 0;
+  border-radius: 0;
+  text-decoration: none;
+  color: #000;
+  list-style: none;
+}
+
+html, body {
+  height: 100vh;
+}
+
+a {
+  color: #11f;
+  -webkit-transition: 300ms;
+  transition: 300ms;
+}
+
+a:hover, a:active, a:focus {
+  color: #44f;
+  text-decoration: underline;
+}
+
+.texto-branco {
+  color: #fff;
+}
+
+.texto-preto {
+  color: #000;
+}
+
+.texto-cinza-claro {
+  color: #eee;
+}
+
+.texto-cinza-escuro {
+  color: #ccc;
+}
+
+.texto-azul-escuro {
+  color: #115;
+}
+
+.texto-azul-claro {
+  color: #11a;
+}
+
+.texto-azul-link {
+  color: #11f;
+}
+/*# sourceMappingURL=main.css.map */
