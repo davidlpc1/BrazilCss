@@ -1,4 +1,5 @@
-## Para usar o framework importe o styles/main.css
+# Usando o Framework
+## Para usa-lo importe o styles/main.css
 ````
 <!DOCTYPE html>
 <html lang="pt-br">
@@ -15,3 +16,8 @@
 </html>
 ````
 ## Ou use o nosso index.html do repositório
+## Você pode usar o framework com ou sem reset 
+## usando main.css ou main+css respectivamente
+# Contribua já
+## Se você sabe CSS nos ajude a contribuir 
+## com os devs iniciantes 

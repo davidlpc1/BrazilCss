@@ -1,31 +1,3 @@
-* {
-  margin: 0;
-  padding: 0;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
-  outline: 0;
-  border: 0;
-  border-radius: 0;
-  text-decoration: none;
-  color: #000;
-  list-style: none;
-}
-
-html, body {
-  height: 100vh;
-}
-
-a {
-  color: #11f;
-  -webkit-transition: 300ms;
-  transition: 300ms;
-}
-
-a:hover, a:active, a:focus {
-  color: #44f;
-  text-decoration: underline;
-}
-
 .texto-preto {
   color: #000000;
 }

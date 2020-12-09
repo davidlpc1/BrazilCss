@@ -66,4 +66,108 @@ a:hover, a:active, a:focus {
   color: #44f;
   text-decoration: underline;
 }
-/*# sourceMappingURL=reset.css.map */
+
+.texto-preto {
+  color: #000000;
+}
+
+.texto-cinza-escuro {
+  color: #595959;
+}
+
+.texto-cinza {
+  color: #808080;
+}
+
+.texto-cinza-claro {
+  color: #d3d3d3;
+}
+
+.texto-branco {
+  color: #ffffff;
+}
+
+.texto-rosa-claro {
+  color: #ffc0cb;
+}
+
+.texto-rosa {
+  color: #ff1493;
+}
+
+.texto-rosa-escuro {
+  color: #c71585;
+}
+
+.texto-vermelho-claro {
+  color: #dc143c;
+}
+
+.texto-vermelho {
+  color: #ff0000;
+}
+
+.texto-vermelho-escuro {
+  color: #8b0000;
+}
+
+.texto-laranja-claro {
+  color: #ff6347;
+}
+
+.texto-laranja {
+  color: #ffa500;
+}
+
+.texto-laranja-escuro {
+  color: #ff4500;
+}
+
+.texto-amarelo-claro {
+  background: #ffee58;
+}
+
+.texto-amarelo {
+  background: #ffff00;
+}
+
+.texto-amarelo-escuro {
+  background: #ffd600;
+}
+
+.texto-verde-claro {
+  color: #7fff00;
+}
+
+.texto-verde {
+  color: #00ff00;
+}
+
+.texto-verde-escuro {
+  color: #006400;
+}
+
+.texto-azul-claro {
+  color: #00bfff;
+}
+
+.texto-azul {
+  color: #0000ff;
+}
+
+.texto-azul-escuro {
+  color: #000080;
+}
+
+.texto-azul-link {
+  color: #1111ff;
+}
+
+.texto-dourado {
+  color: #ffd700;
+}
+
+.texto-marrom {
+  color: #8b4513;
+}
+/*# sourceMappingURL=main+reset.css.map */
