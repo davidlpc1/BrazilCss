@@ -14,6 +14,10 @@
   color: #d3d3d3;
 }
 
+.texto-branco-pouco_escuro {
+  color: #eeeeee;
+}
+
 .texto-branco {
   color: #ffffff;
 }
@@ -94,11 +98,19 @@
   color: #1111ff;
 }
 
-.texto-dourado {
-  color: #ffd700;
+.texto-dourado-caro {
+  color: #ffda07b4;
+}
+
+.texto-dourado-escuro {
+  color: #ffda0754;
 }
 
 .texto-marrom {
   color: #8b4513;
+}
+
+.texto-marrom-claro {
+  color: #af5412;
 }
 /*# sourceMappingURL=colors.css.map */
