@@ -15,8 +15,9 @@
 </body>
 </html>
 ````
-## Ou use o nosso index.html do repositório
+## Ou use o nosso import.html do repositório
 ### Obs:Você pode usar o framework com ou sem reset 
+# Confira exemplos do framework em /examples/
 # Contribua já
 ## Se você sabe CSS nos ajude a criar o BrazilCss
 ## E ajudar os devs iniciantes do Brasil
