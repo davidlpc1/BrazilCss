@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="./styles/main.css">
 </head>
 <body>
-    <h1>Bootstrapped by @davidlpc1 in css_framework</h1>
+    <h1>Bootstrapped by @davidlpc1 in BrazilCss</h1>
 </body>
 </html>
 ````
