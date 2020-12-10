@@ -1,5 +1,5 @@
-# Usando o Framework
-## Para usa-lo importe o styles/main.css
+# Usando o BrazilCss
+## Importe o styles/main.css ou o styles/main+reset.css
 ````
 <!DOCTYPE html>
 <html lang="pt-br">
@@ -11,13 +11,12 @@
     <link rel="stylesheet" href="./styles/main.css">
 </head>
 <body>
-    <h1>Bootstrapped by @davidlpc1 in css_framework</h1>
+    <h1>Bootstrapped by @davidlpc1 in BrazilCss</h1>
 </body>
 </html>
 ````
 ## Ou use o nosso index.html do repositório
-## Você pode usar o framework com ou sem reset 
-## usando main.css ou main+css respectivamente
+### Obs:Você pode usar o framework com ou sem reset 
 # Contribua já
-## Se você sabe CSS nos ajude a contribuir 
-## com os devs iniciantes 
+## Se você sabe CSS nos ajude a criar o BrazilCss
+## E ajudar os devs iniciantes do Brasil
