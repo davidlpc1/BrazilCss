@@ -11087,4 +11087,124 @@ a:active, a:focus, a:hover {
 .borda-9px-transparente-cinza_claro {
   border: 9px transparent #d3d3d3;
 }
+
+.sem-fundo, .fundo-transparente, .fundo-nada {
+  background: transparent;
+}
+
+.fundo-preto {
+  background-color: #000;
+}
+
+.fundo-cinza-escuro {
+  background-color: #595959;
+}
+
+.fundo-cinza {
+  background-color: grey;
+}
+
+.fundo-cinza-claro {
+  background-color: #d3d3d3;
+}
+
+.fundo-branco-pouco_escuro {
+  background-color: #eee;
+}
+
+.fundo-branco {
+  background-color: #fff;
+}
+
+.fundo-rosa-claro {
+  background-color: pink;
+}
+
+.fundo-rosa {
+  background-color: #ff1493;
+}
+
+.fundo-rosa-escuro {
+  background-color: #c71585;
+}
+
+.fundo-vermelho-claro {
+  background-color: #dc143c;
+}
+
+.fundo-vermelho {
+  background-color: red;
+}
+
+.fundo-vermelho-escuro {
+  background-color: #8b0000;
+}
+
+.fundo-laranja-claro {
+  background-color: tomato;
+}
+
+.fundo-laranja {
+  background-color: orange;
+}
+
+.fundo-laranja-escuro {
+  background-color: #ff4500;
+}
+
+.fundo-amarelo-claro {
+  background: #ffee58;
+}
+
+.fundo-amarelo {
+  background: #ff0;
+}
+
+.fundo-amarelo-escuro {
+  background: #ffd600;
+}
+
+.fundo-verde-claro {
+  background-color: #7fff00;
+}
+
+.fundo-verde {
+  background-color: #0f0;
+}
+
+.fundo-verde-escuro {
+  background-color: #006400;
+}
+
+.fundo-azul-claro {
+  background-color: #00bfff;
+}
+
+.fundo-azul {
+  background-color: #00f;
+}
+
+.fundo-azul-escuro {
+  background-color: navy;
+}
+
+.fundo-azul-link {
+  background-color: #11f;
+}
+
+.fundo-dourado-caro {
+  background-color: #ffda07b4;
+}
+
+.fundo-dourado-escuro {
+  background-color: #ffda0754;
+}
+
+.fundo-marrom {
+  background-color: #8b4513;
+}
+
+.fundo-marrom-claro {
+  background-color: #af5412;
+}
 /*# sourceMappingURL=main+reset.css.map */
