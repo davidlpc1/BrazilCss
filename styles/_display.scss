@@ -13,6 +13,13 @@
 .flex-direction-column,.direcao-flex-coluna,.direcao-coluna,.coluna-flex{
     flex-direction:column !important;
 }
+.align-center,.alinhar-centro,.y-centro,.flex-y-centro{
+    align-items:center !important;
+}
+.align-start,.alinhar-inicio,.y-inicio,.flex-y-inicio{
+    align-items:start !important;
+    align-self: start !important;
+}
 .justify-center,.justifica-centro,.x-centro,.flex-x-centro{
     justify-content:center !important;
 }

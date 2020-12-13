@@ -22987,4 +22987,50 @@ a:active, a:focus, a:hover {
 .altura-100-tela, .altura-100-relativo-tela {
   height: 100vw !important;
 }
+
+.block, .bloco.display-bloco {
+  display: block !important;
+}
+
+.flex, .flexionado, .display-flex, .display-elastico, .elastico {
+  display: -webkit-box !important;
+  display: -ms-flexbox !important;
+  display: flex !important;
+}
+
+.display-none, .sem-display, .display-nenhum, .display-nada {
+  display: none !important;
+}
+
+.inline-block, .block-linha, .bloco-mesma-linha, .display-inline-block {
+  display: inline-block !important;
+}
+
+.flex-direction-column, .direcao-flex-coluna, .direcao-coluna, .coluna-flex {
+  -webkit-box-orient: vertical !important;
+  -webkit-box-direction: normal !important;
+      -ms-flex-direction: column !important;
+          flex-direction: column !important;
+}
+
+.align-center, .alinhar-centro, .y-centro, .flex-y-centro {
+  -webkit-box-align: center !important;
+      -ms-flex-align: center !important;
+          align-items: center !important;
+}
+
+.align-start, .alinhar-inicio, .y-inicio, .flex-y-inicio {
+  -webkit-box-align: start !important;
+      -ms-flex-align: start !important;
+          align-items: start !important;
+  -ms-flex-item-align: start !important;
+      -ms-grid-row-align: start !important;
+      align-self: start !important;
+}
+
+.justify-center, .justifica-centro, .x-centro, .flex-x-centro {
+  -webkit-box-pack: center !important;
+      -ms-flex-pack: center !important;
+          justify-content: center !important;
+}
 /*# sourceMappingURL=main+reset.css.map */
