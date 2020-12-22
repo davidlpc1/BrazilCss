@@ -12,7 +12,7 @@ for (let direction of [ 'right','left','top','bottom' ]){
 }
 
 function writeFile(filePath,fileContent){
-    fs.writeFileSync(contentFilePath, contentString)
+    fs.writeFileSync(filePath, fileContent)
 }
 
 function readFile(filePath){
