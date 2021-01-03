@@ -1,3 +1,4 @@
+@charset "UTF-8";
 a, abbr, acronym, address, applet, article, aside, audio, b, big, blockquote, body, canvas, caption, center, cite, code, dd, del, details, dfn, div, dl, dt, em, embed, fieldset, figcaption, figure, footer, form, h1, h2, h3, h4, h5, h6, header, hgroup, html, i, iframe, img, ins, kbd, label, legend, li, mark, menu, nav, object, ol, output, p, pre, q, ruby, s, samp, section, small, span, strike, strong, sub, summary, sup, table, tbody, td, tfoot, th, thead, time, tr, tt, u, ul, var, video {
   margin: 0;
   padding: 0;
@@ -31444,5 +31445,1015 @@ a:active, a:focus, a:hover {
 
 .raio_borda-100-porcento, .border_radius-100-porcento {
   border-radius: 100% !important;
+}
+
+.transição-0ms, .transition-0ms, .transition-0miliseconds, .transição-0milisegundos {
+  -webkit-transition: 0ms !important;
+  transition: 0ms !important;
+}
+
+.transição-0s, .transition-0s, .transition-0seconds, .transição-0segundos {
+  -webkit-transition: 0s !important;
+  transition: 0s !important;
+}
+
+.transição-1ms, .transition-1ms, .transition-1miliseconds, .transição-1milisegundos {
+  -webkit-transition: 1ms !important;
+  transition: 1ms !important;
+}
+
+.transição-1s, .transition-1s, .transition-1seconds, .transição-1segundos {
+  -webkit-transition: 1s !important;
+  transition: 1s !important;
+}
+
+.transição-2ms, .transition-2ms, .transition-2miliseconds, .transição-2milisegundos {
+  -webkit-transition: 2ms !important;
+  transition: 2ms !important;
+}
+
+.transição-2s, .transition-2s, .transition-2seconds, .transição-2segundos {
+  -webkit-transition: 2s !important;
+  transition: 2s !important;
+}
+
+.transição-3ms, .transition-3ms, .transition-3miliseconds, .transição-3milisegundos {
+  -webkit-transition: 3ms !important;
+  transition: 3ms !important;
+}
+
+.transição-3s, .transition-3s, .transition-3seconds, .transição-3segundos {
+  -webkit-transition: 3s !important;
+  transition: 3s !important;
+}
+
+.transição-4ms, .transition-4ms, .transition-4miliseconds, .transição-4milisegundos {
+  -webkit-transition: 4ms !important;
+  transition: 4ms !important;
+}
+
+.transição-4s, .transition-4s, .transition-4seconds, .transição-4segundos {
+  -webkit-transition: 4s !important;
+  transition: 4s !important;
+}
+
+.transição-5ms, .transition-5ms, .transition-5miliseconds, .transição-5milisegundos {
+  -webkit-transition: 5ms !important;
+  transition: 5ms !important;
+}
+
+.transição-5s, .transition-5s, .transition-5seconds, .transição-5segundos {
+  -webkit-transition: 5s !important;
+  transition: 5s !important;
+}
+
+.transição-6ms, .transition-6ms, .transition-6miliseconds, .transição-6milisegundos {
+  -webkit-transition: 6ms !important;
+  transition: 6ms !important;
+}
+
+.transição-6s, .transition-6s, .transition-6seconds, .transição-6segundos {
+  -webkit-transition: 6s !important;
+  transition: 6s !important;
+}
+
+.transição-7ms, .transition-7ms, .transition-7miliseconds, .transição-7milisegundos {
+  -webkit-transition: 7ms !important;
+  transition: 7ms !important;
+}
+
+.transição-7s, .transition-7s, .transition-7seconds, .transição-7segundos {
+  -webkit-transition: 7s !important;
+  transition: 7s !important;
+}
+
+.transição-8ms, .transition-8ms, .transition-8miliseconds, .transição-8milisegundos {
+  -webkit-transition: 8ms !important;
+  transition: 8ms !important;
+}
+
+.transição-8s, .transition-8s, .transition-8seconds, .transição-8segundos {
+  -webkit-transition: 8s !important;
+  transition: 8s !important;
+}
+
+.transição-9ms, .transition-9ms, .transition-9miliseconds, .transição-9milisegundos {
+  -webkit-transition: 9ms !important;
+  transition: 9ms !important;
+}
+
+.transição-9s, .transition-9s, .transition-9seconds, .transição-9segundos {
+  -webkit-transition: 9s !important;
+  transition: 9s !important;
+}
+
+.transição-10ms, .transition-10ms, .transition-10miliseconds, .transição-10milisegundos {
+  -webkit-transition: 10ms !important;
+  transition: 10ms !important;
+}
+
+.transição-10s, .transition-10s, .transition-10seconds, .transição-10segundos {
+  -webkit-transition: 10s !important;
+  transition: 10s !important;
+}
+
+.transição-11ms, .transition-11ms, .transition-11miliseconds, .transição-11milisegundos {
+  -webkit-transition: 11ms !important;
+  transition: 11ms !important;
+}
+
+.transição-11s, .transition-11s, .transition-11seconds, .transição-11segundos {
+  -webkit-transition: 11s !important;
+  transition: 11s !important;
+}
+
+.transição-12ms, .transition-12ms, .transition-12miliseconds, .transição-12milisegundos {
+  -webkit-transition: 12ms !important;
+  transition: 12ms !important;
+}
+
+.transição-12s, .transition-12s, .transition-12seconds, .transição-12segundos {
+  -webkit-transition: 12s !important;
+  transition: 12s !important;
+}
+
+.transição-13ms, .transition-13ms, .transition-13miliseconds, .transição-13milisegundos {
+  -webkit-transition: 13ms !important;
+  transition: 13ms !important;
+}
+
+.transição-13s, .transition-13s, .transition-13seconds, .transição-13segundos {
+  -webkit-transition: 13s !important;
+  transition: 13s !important;
+}
+
+.transição-14ms, .transition-14ms, .transition-14miliseconds, .transição-14milisegundos {
+  -webkit-transition: 14ms !important;
+  transition: 14ms !important;
+}
+
+.transição-14s, .transition-14s, .transition-14seconds, .transição-14segundos {
+  -webkit-transition: 14s !important;
+  transition: 14s !important;
+}
+
+.transição-15ms, .transition-15ms, .transition-15miliseconds, .transição-15milisegundos {
+  -webkit-transition: 15ms !important;
+  transition: 15ms !important;
+}
+
+.transição-15s, .transition-15s, .transition-15seconds, .transição-15segundos {
+  -webkit-transition: 15s !important;
+  transition: 15s !important;
+}
+
+.transição-16ms, .transition-16ms, .transition-16miliseconds, .transição-16milisegundos {
+  -webkit-transition: 16ms !important;
+  transition: 16ms !important;
+}
+
+.transição-16s, .transition-16s, .transition-16seconds, .transição-16segundos {
+  -webkit-transition: 16s !important;
+  transition: 16s !important;
+}
+
+.transição-17ms, .transition-17ms, .transition-17miliseconds, .transição-17milisegundos {
+  -webkit-transition: 17ms !important;
+  transition: 17ms !important;
+}
+
+.transição-17s, .transition-17s, .transition-17seconds, .transição-17segundos {
+  -webkit-transition: 17s !important;
+  transition: 17s !important;
+}
+
+.transição-18ms, .transition-18ms, .transition-18miliseconds, .transição-18milisegundos {
+  -webkit-transition: 18ms !important;
+  transition: 18ms !important;
+}
+
+.transição-18s, .transition-18s, .transition-18seconds, .transição-18segundos {
+  -webkit-transition: 18s !important;
+  transition: 18s !important;
+}
+
+.transição-19ms, .transition-19ms, .transition-19miliseconds, .transição-19milisegundos {
+  -webkit-transition: 19ms !important;
+  transition: 19ms !important;
+}
+
+.transição-19s, .transition-19s, .transition-19seconds, .transição-19segundos {
+  -webkit-transition: 19s !important;
+  transition: 19s !important;
+}
+
+.transição-20ms, .transition-20ms, .transition-20miliseconds, .transição-20milisegundos {
+  -webkit-transition: 20ms !important;
+  transition: 20ms !important;
+}
+
+.transição-20s, .transition-20s, .transition-20seconds, .transição-20segundos {
+  -webkit-transition: 20s !important;
+  transition: 20s !important;
+}
+
+.transição-21ms, .transition-21ms, .transition-21miliseconds, .transição-21milisegundos {
+  -webkit-transition: 21ms !important;
+  transition: 21ms !important;
+}
+
+.transição-21s, .transition-21s, .transition-21seconds, .transição-21segundos {
+  -webkit-transition: 21s !important;
+  transition: 21s !important;
+}
+
+.transição-22ms, .transition-22ms, .transition-22miliseconds, .transição-22milisegundos {
+  -webkit-transition: 22ms !important;
+  transition: 22ms !important;
+}
+
+.transição-22s, .transition-22s, .transition-22seconds, .transição-22segundos {
+  -webkit-transition: 22s !important;
+  transition: 22s !important;
+}
+
+.transição-23ms, .transition-23ms, .transition-23miliseconds, .transição-23milisegundos {
+  -webkit-transition: 23ms !important;
+  transition: 23ms !important;
+}
+
+.transição-23s, .transition-23s, .transition-23seconds, .transição-23segundos {
+  -webkit-transition: 23s !important;
+  transition: 23s !important;
+}
+
+.transição-24ms, .transition-24ms, .transition-24miliseconds, .transição-24milisegundos {
+  -webkit-transition: 24ms !important;
+  transition: 24ms !important;
+}
+
+.transição-24s, .transition-24s, .transition-24seconds, .transição-24segundos {
+  -webkit-transition: 24s !important;
+  transition: 24s !important;
+}
+
+.transição-25ms, .transition-25ms, .transition-25miliseconds, .transição-25milisegundos {
+  -webkit-transition: 25ms !important;
+  transition: 25ms !important;
+}
+
+.transição-25s, .transition-25s, .transition-25seconds, .transição-25segundos {
+  -webkit-transition: 25s !important;
+  transition: 25s !important;
+}
+
+.transição-26ms, .transition-26ms, .transition-26miliseconds, .transição-26milisegundos {
+  -webkit-transition: 26ms !important;
+  transition: 26ms !important;
+}
+
+.transição-26s, .transition-26s, .transition-26seconds, .transição-26segundos {
+  -webkit-transition: 26s !important;
+  transition: 26s !important;
+}
+
+.transição-27ms, .transition-27ms, .transition-27miliseconds, .transição-27milisegundos {
+  -webkit-transition: 27ms !important;
+  transition: 27ms !important;
+}
+
+.transição-27s, .transition-27s, .transition-27seconds, .transição-27segundos {
+  -webkit-transition: 27s !important;
+  transition: 27s !important;
+}
+
+.transição-28ms, .transition-28ms, .transition-28miliseconds, .transição-28milisegundos {
+  -webkit-transition: 28ms !important;
+  transition: 28ms !important;
+}
+
+.transição-28s, .transition-28s, .transition-28seconds, .transição-28segundos {
+  -webkit-transition: 28s !important;
+  transition: 28s !important;
+}
+
+.transição-29ms, .transition-29ms, .transition-29miliseconds, .transição-29milisegundos {
+  -webkit-transition: 29ms !important;
+  transition: 29ms !important;
+}
+
+.transição-29s, .transition-29s, .transition-29seconds, .transição-29segundos {
+  -webkit-transition: 29s !important;
+  transition: 29s !important;
+}
+
+.transição-30ms, .transition-30ms, .transition-30miliseconds, .transição-30milisegundos {
+  -webkit-transition: 30ms !important;
+  transition: 30ms !important;
+}
+
+.transição-30s, .transition-30s, .transition-30seconds, .transição-30segundos {
+  -webkit-transition: 30s !important;
+  transition: 30s !important;
+}
+
+.transição-31ms, .transition-31ms, .transition-31miliseconds, .transição-31milisegundos {
+  -webkit-transition: 31ms !important;
+  transition: 31ms !important;
+}
+
+.transição-31s, .transition-31s, .transition-31seconds, .transição-31segundos {
+  -webkit-transition: 31s !important;
+  transition: 31s !important;
+}
+
+.transição-32ms, .transition-32ms, .transition-32miliseconds, .transição-32milisegundos {
+  -webkit-transition: 32ms !important;
+  transition: 32ms !important;
+}
+
+.transição-32s, .transition-32s, .transition-32seconds, .transição-32segundos {
+  -webkit-transition: 32s !important;
+  transition: 32s !important;
+}
+
+.transição-33ms, .transition-33ms, .transition-33miliseconds, .transição-33milisegundos {
+  -webkit-transition: 33ms !important;
+  transition: 33ms !important;
+}
+
+.transição-33s, .transition-33s, .transition-33seconds, .transição-33segundos {
+  -webkit-transition: 33s !important;
+  transition: 33s !important;
+}
+
+.transição-34ms, .transition-34ms, .transition-34miliseconds, .transição-34milisegundos {
+  -webkit-transition: 34ms !important;
+  transition: 34ms !important;
+}
+
+.transição-34s, .transition-34s, .transition-34seconds, .transição-34segundos {
+  -webkit-transition: 34s !important;
+  transition: 34s !important;
+}
+
+.transição-35ms, .transition-35ms, .transition-35miliseconds, .transição-35milisegundos {
+  -webkit-transition: 35ms !important;
+  transition: 35ms !important;
+}
+
+.transição-35s, .transition-35s, .transition-35seconds, .transição-35segundos {
+  -webkit-transition: 35s !important;
+  transition: 35s !important;
+}
+
+.transição-36ms, .transition-36ms, .transition-36miliseconds, .transição-36milisegundos {
+  -webkit-transition: 36ms !important;
+  transition: 36ms !important;
+}
+
+.transição-36s, .transition-36s, .transition-36seconds, .transição-36segundos {
+  -webkit-transition: 36s !important;
+  transition: 36s !important;
+}
+
+.transição-37ms, .transition-37ms, .transition-37miliseconds, .transição-37milisegundos {
+  -webkit-transition: 37ms !important;
+  transition: 37ms !important;
+}
+
+.transição-37s, .transition-37s, .transition-37seconds, .transição-37segundos {
+  -webkit-transition: 37s !important;
+  transition: 37s !important;
+}
+
+.transição-38ms, .transition-38ms, .transition-38miliseconds, .transição-38milisegundos {
+  -webkit-transition: 38ms !important;
+  transition: 38ms !important;
+}
+
+.transição-38s, .transition-38s, .transition-38seconds, .transição-38segundos {
+  -webkit-transition: 38s !important;
+  transition: 38s !important;
+}
+
+.transição-39ms, .transition-39ms, .transition-39miliseconds, .transição-39milisegundos {
+  -webkit-transition: 39ms !important;
+  transition: 39ms !important;
+}
+
+.transição-39s, .transition-39s, .transition-39seconds, .transição-39segundos {
+  -webkit-transition: 39s !important;
+  transition: 39s !important;
+}
+
+.transição-40ms, .transition-40ms, .transition-40miliseconds, .transição-40milisegundos {
+  -webkit-transition: 40ms !important;
+  transition: 40ms !important;
+}
+
+.transição-40s, .transition-40s, .transition-40seconds, .transição-40segundos {
+  -webkit-transition: 40s !important;
+  transition: 40s !important;
+}
+
+.transição-41ms, .transition-41ms, .transition-41miliseconds, .transição-41milisegundos {
+  -webkit-transition: 41ms !important;
+  transition: 41ms !important;
+}
+
+.transição-41s, .transition-41s, .transition-41seconds, .transição-41segundos {
+  -webkit-transition: 41s !important;
+  transition: 41s !important;
+}
+
+.transição-42ms, .transition-42ms, .transition-42miliseconds, .transição-42milisegundos {
+  -webkit-transition: 42ms !important;
+  transition: 42ms !important;
+}
+
+.transição-42s, .transition-42s, .transition-42seconds, .transição-42segundos {
+  -webkit-transition: 42s !important;
+  transition: 42s !important;
+}
+
+.transição-43ms, .transition-43ms, .transition-43miliseconds, .transição-43milisegundos {
+  -webkit-transition: 43ms !important;
+  transition: 43ms !important;
+}
+
+.transição-43s, .transition-43s, .transition-43seconds, .transição-43segundos {
+  -webkit-transition: 43s !important;
+  transition: 43s !important;
+}
+
+.transição-44ms, .transition-44ms, .transition-44miliseconds, .transição-44milisegundos {
+  -webkit-transition: 44ms !important;
+  transition: 44ms !important;
+}
+
+.transição-44s, .transition-44s, .transition-44seconds, .transição-44segundos {
+  -webkit-transition: 44s !important;
+  transition: 44s !important;
+}
+
+.transição-45ms, .transition-45ms, .transition-45miliseconds, .transição-45milisegundos {
+  -webkit-transition: 45ms !important;
+  transition: 45ms !important;
+}
+
+.transição-45s, .transition-45s, .transition-45seconds, .transição-45segundos {
+  -webkit-transition: 45s !important;
+  transition: 45s !important;
+}
+
+.transição-46ms, .transition-46ms, .transition-46miliseconds, .transição-46milisegundos {
+  -webkit-transition: 46ms !important;
+  transition: 46ms !important;
+}
+
+.transição-46s, .transition-46s, .transition-46seconds, .transição-46segundos {
+  -webkit-transition: 46s !important;
+  transition: 46s !important;
+}
+
+.transição-47ms, .transition-47ms, .transition-47miliseconds, .transição-47milisegundos {
+  -webkit-transition: 47ms !important;
+  transition: 47ms !important;
+}
+
+.transição-47s, .transition-47s, .transition-47seconds, .transição-47segundos {
+  -webkit-transition: 47s !important;
+  transition: 47s !important;
+}
+
+.transição-48ms, .transition-48ms, .transition-48miliseconds, .transição-48milisegundos {
+  -webkit-transition: 48ms !important;
+  transition: 48ms !important;
+}
+
+.transição-48s, .transition-48s, .transition-48seconds, .transição-48segundos {
+  -webkit-transition: 48s !important;
+  transition: 48s !important;
+}
+
+.transição-49ms, .transition-49ms, .transition-49miliseconds, .transição-49milisegundos {
+  -webkit-transition: 49ms !important;
+  transition: 49ms !important;
+}
+
+.transição-49s, .transition-49s, .transition-49seconds, .transição-49segundos {
+  -webkit-transition: 49s !important;
+  transition: 49s !important;
+}
+
+.transição-50ms, .transition-50ms, .transition-50miliseconds, .transição-50milisegundos {
+  -webkit-transition: 50ms !important;
+  transition: 50ms !important;
+}
+
+.transição-50s, .transition-50s, .transition-50seconds, .transição-50segundos {
+  -webkit-transition: 50s !important;
+  transition: 50s !important;
+}
+
+.transição-51ms, .transition-51ms, .transition-51miliseconds, .transição-51milisegundos {
+  -webkit-transition: 51ms !important;
+  transition: 51ms !important;
+}
+
+.transição-51s, .transition-51s, .transition-51seconds, .transição-51segundos {
+  -webkit-transition: 51s !important;
+  transition: 51s !important;
+}
+
+.transição-52ms, .transition-52ms, .transition-52miliseconds, .transição-52milisegundos {
+  -webkit-transition: 52ms !important;
+  transition: 52ms !important;
+}
+
+.transição-52s, .transition-52s, .transition-52seconds, .transição-52segundos {
+  -webkit-transition: 52s !important;
+  transition: 52s !important;
+}
+
+.transição-53ms, .transition-53ms, .transition-53miliseconds, .transição-53milisegundos {
+  -webkit-transition: 53ms !important;
+  transition: 53ms !important;
+}
+
+.transição-53s, .transition-53s, .transition-53seconds, .transição-53segundos {
+  -webkit-transition: 53s !important;
+  transition: 53s !important;
+}
+
+.transição-54ms, .transition-54ms, .transition-54miliseconds, .transição-54milisegundos {
+  -webkit-transition: 54ms !important;
+  transition: 54ms !important;
+}
+
+.transição-54s, .transition-54s, .transition-54seconds, .transição-54segundos {
+  -webkit-transition: 54s !important;
+  transition: 54s !important;
+}
+
+.transição-55ms, .transition-55ms, .transition-55miliseconds, .transição-55milisegundos {
+  -webkit-transition: 55ms !important;
+  transition: 55ms !important;
+}
+
+.transição-55s, .transition-55s, .transition-55seconds, .transição-55segundos {
+  -webkit-transition: 55s !important;
+  transition: 55s !important;
+}
+
+.transição-56ms, .transition-56ms, .transition-56miliseconds, .transição-56milisegundos {
+  -webkit-transition: 56ms !important;
+  transition: 56ms !important;
+}
+
+.transição-56s, .transition-56s, .transition-56seconds, .transição-56segundos {
+  -webkit-transition: 56s !important;
+  transition: 56s !important;
+}
+
+.transição-57ms, .transition-57ms, .transition-57miliseconds, .transição-57milisegundos {
+  -webkit-transition: 57ms !important;
+  transition: 57ms !important;
+}
+
+.transição-57s, .transition-57s, .transition-57seconds, .transição-57segundos {
+  -webkit-transition: 57s !important;
+  transition: 57s !important;
+}
+
+.transição-58ms, .transition-58ms, .transition-58miliseconds, .transição-58milisegundos {
+  -webkit-transition: 58ms !important;
+  transition: 58ms !important;
+}
+
+.transição-58s, .transition-58s, .transition-58seconds, .transição-58segundos {
+  -webkit-transition: 58s !important;
+  transition: 58s !important;
+}
+
+.transição-59ms, .transition-59ms, .transition-59miliseconds, .transição-59milisegundos {
+  -webkit-transition: 59ms !important;
+  transition: 59ms !important;
+}
+
+.transição-59s, .transition-59s, .transition-59seconds, .transição-59segundos {
+  -webkit-transition: 59s !important;
+  transition: 59s !important;
+}
+
+.transição-60ms, .transition-60ms, .transition-60miliseconds, .transição-60milisegundos {
+  -webkit-transition: 60ms !important;
+  transition: 60ms !important;
+}
+
+.transição-60s, .transition-60s, .transition-60seconds, .transição-60segundos {
+  -webkit-transition: 60s !important;
+  transition: 60s !important;
+}
+
+.transição-61ms, .transition-61ms, .transition-61miliseconds, .transição-61milisegundos {
+  -webkit-transition: 61ms !important;
+  transition: 61ms !important;
+}
+
+.transição-61s, .transition-61s, .transition-61seconds, .transição-61segundos {
+  -webkit-transition: 61s !important;
+  transition: 61s !important;
+}
+
+.transição-62ms, .transition-62ms, .transition-62miliseconds, .transição-62milisegundos {
+  -webkit-transition: 62ms !important;
+  transition: 62ms !important;
+}
+
+.transição-62s, .transition-62s, .transition-62seconds, .transição-62segundos {
+  -webkit-transition: 62s !important;
+  transition: 62s !important;
+}
+
+.transição-63ms, .transition-63ms, .transition-63miliseconds, .transição-63milisegundos {
+  -webkit-transition: 63ms !important;
+  transition: 63ms !important;
+}
+
+.transição-63s, .transition-63s, .transition-63seconds, .transição-63segundos {
+  -webkit-transition: 63s !important;
+  transition: 63s !important;
+}
+
+.transição-64ms, .transition-64ms, .transition-64miliseconds, .transição-64milisegundos {
+  -webkit-transition: 64ms !important;
+  transition: 64ms !important;
+}
+
+.transição-64s, .transition-64s, .transition-64seconds, .transição-64segundos {
+  -webkit-transition: 64s !important;
+  transition: 64s !important;
+}
+
+.transição-65ms, .transition-65ms, .transition-65miliseconds, .transição-65milisegundos {
+  -webkit-transition: 65ms !important;
+  transition: 65ms !important;
+}
+
+.transição-65s, .transition-65s, .transition-65seconds, .transição-65segundos {
+  -webkit-transition: 65s !important;
+  transition: 65s !important;
+}
+
+.transição-66ms, .transition-66ms, .transition-66miliseconds, .transição-66milisegundos {
+  -webkit-transition: 66ms !important;
+  transition: 66ms !important;
+}
+
+.transição-66s, .transition-66s, .transition-66seconds, .transição-66segundos {
+  -webkit-transition: 66s !important;
+  transition: 66s !important;
+}
+
+.transição-67ms, .transition-67ms, .transition-67miliseconds, .transição-67milisegundos {
+  -webkit-transition: 67ms !important;
+  transition: 67ms !important;
+}
+
+.transição-67s, .transition-67s, .transition-67seconds, .transição-67segundos {
+  -webkit-transition: 67s !important;
+  transition: 67s !important;
+}
+
+.transição-68ms, .transition-68ms, .transition-68miliseconds, .transição-68milisegundos {
+  -webkit-transition: 68ms !important;
+  transition: 68ms !important;
+}
+
+.transição-68s, .transition-68s, .transition-68seconds, .transição-68segundos {
+  -webkit-transition: 68s !important;
+  transition: 68s !important;
+}
+
+.transição-69ms, .transition-69ms, .transition-69miliseconds, .transição-69milisegundos {
+  -webkit-transition: 69ms !important;
+  transition: 69ms !important;
+}
+
+.transição-69s, .transition-69s, .transition-69seconds, .transição-69segundos {
+  -webkit-transition: 69s !important;
+  transition: 69s !important;
+}
+
+.transição-70ms, .transition-70ms, .transition-70miliseconds, .transição-70milisegundos {
+  -webkit-transition: 70ms !important;
+  transition: 70ms !important;
+}
+
+.transição-70s, .transition-70s, .transition-70seconds, .transição-70segundos {
+  -webkit-transition: 70s !important;
+  transition: 70s !important;
+}
+
+.transição-71ms, .transition-71ms, .transition-71miliseconds, .transição-71milisegundos {
+  -webkit-transition: 71ms !important;
+  transition: 71ms !important;
+}
+
+.transição-71s, .transition-71s, .transition-71seconds, .transição-71segundos {
+  -webkit-transition: 71s !important;
+  transition: 71s !important;
+}
+
+.transição-72ms, .transition-72ms, .transition-72miliseconds, .transição-72milisegundos {
+  -webkit-transition: 72ms !important;
+  transition: 72ms !important;
+}
+
+.transição-72s, .transition-72s, .transition-72seconds, .transição-72segundos {
+  -webkit-transition: 72s !important;
+  transition: 72s !important;
+}
+
+.transição-73ms, .transition-73ms, .transition-73miliseconds, .transição-73milisegundos {
+  -webkit-transition: 73ms !important;
+  transition: 73ms !important;
+}
+
+.transição-73s, .transition-73s, .transition-73seconds, .transição-73segundos {
+  -webkit-transition: 73s !important;
+  transition: 73s !important;
+}
+
+.transição-74ms, .transition-74ms, .transition-74miliseconds, .transição-74milisegundos {
+  -webkit-transition: 74ms !important;
+  transition: 74ms !important;
+}
+
+.transição-74s, .transition-74s, .transition-74seconds, .transição-74segundos {
+  -webkit-transition: 74s !important;
+  transition: 74s !important;
+}
+
+.transição-75ms, .transition-75ms, .transition-75miliseconds, .transição-75milisegundos {
+  -webkit-transition: 75ms !important;
+  transition: 75ms !important;
+}
+
+.transição-75s, .transition-75s, .transition-75seconds, .transição-75segundos {
+  -webkit-transition: 75s !important;
+  transition: 75s !important;
+}
+
+.transição-76ms, .transition-76ms, .transition-76miliseconds, .transição-76milisegundos {
+  -webkit-transition: 76ms !important;
+  transition: 76ms !important;
+}
+
+.transição-76s, .transition-76s, .transition-76seconds, .transição-76segundos {
+  -webkit-transition: 76s !important;
+  transition: 76s !important;
+}
+
+.transição-77ms, .transition-77ms, .transition-77miliseconds, .transição-77milisegundos {
+  -webkit-transition: 77ms !important;
+  transition: 77ms !important;
+}
+
+.transição-77s, .transition-77s, .transition-77seconds, .transição-77segundos {
+  -webkit-transition: 77s !important;
+  transition: 77s !important;
+}
+
+.transição-78ms, .transition-78ms, .transition-78miliseconds, .transição-78milisegundos {
+  -webkit-transition: 78ms !important;
+  transition: 78ms !important;
+}
+
+.transição-78s, .transition-78s, .transition-78seconds, .transição-78segundos {
+  -webkit-transition: 78s !important;
+  transition: 78s !important;
+}
+
+.transição-79ms, .transition-79ms, .transition-79miliseconds, .transição-79milisegundos {
+  -webkit-transition: 79ms !important;
+  transition: 79ms !important;
+}
+
+.transição-79s, .transition-79s, .transition-79seconds, .transição-79segundos {
+  -webkit-transition: 79s !important;
+  transition: 79s !important;
+}
+
+.transição-80ms, .transition-80ms, .transition-80miliseconds, .transição-80milisegundos {
+  -webkit-transition: 80ms !important;
+  transition: 80ms !important;
+}
+
+.transição-80s, .transition-80s, .transition-80seconds, .transição-80segundos {
+  -webkit-transition: 80s !important;
+  transition: 80s !important;
+}
+
+.transição-81ms, .transition-81ms, .transition-81miliseconds, .transição-81milisegundos {
+  -webkit-transition: 81ms !important;
+  transition: 81ms !important;
+}
+
+.transição-81s, .transition-81s, .transition-81seconds, .transição-81segundos {
+  -webkit-transition: 81s !important;
+  transition: 81s !important;
+}
+
+.transição-82ms, .transition-82ms, .transition-82miliseconds, .transição-82milisegundos {
+  -webkit-transition: 82ms !important;
+  transition: 82ms !important;
+}
+
+.transição-82s, .transition-82s, .transition-82seconds, .transição-82segundos {
+  -webkit-transition: 82s !important;
+  transition: 82s !important;
+}
+
+.transição-83ms, .transition-83ms, .transition-83miliseconds, .transição-83milisegundos {
+  -webkit-transition: 83ms !important;
+  transition: 83ms !important;
+}
+
+.transição-83s, .transition-83s, .transition-83seconds, .transição-83segundos {
+  -webkit-transition: 83s !important;
+  transition: 83s !important;
+}
+
+.transição-84ms, .transition-84ms, .transition-84miliseconds, .transição-84milisegundos {
+  -webkit-transition: 84ms !important;
+  transition: 84ms !important;
+}
+
+.transição-84s, .transition-84s, .transition-84seconds, .transição-84segundos {
+  -webkit-transition: 84s !important;
+  transition: 84s !important;
+}
+
+.transição-85ms, .transition-85ms, .transition-85miliseconds, .transição-85milisegundos {
+  -webkit-transition: 85ms !important;
+  transition: 85ms !important;
+}
+
+.transição-85s, .transition-85s, .transition-85seconds, .transição-85segundos {
+  -webkit-transition: 85s !important;
+  transition: 85s !important;
+}
+
+.transição-86ms, .transition-86ms, .transition-86miliseconds, .transição-86milisegundos {
+  -webkit-transition: 86ms !important;
+  transition: 86ms !important;
+}
+
+.transição-86s, .transition-86s, .transition-86seconds, .transição-86segundos {
+  -webkit-transition: 86s !important;
+  transition: 86s !important;
+}
+
+.transição-87ms, .transition-87ms, .transition-87miliseconds, .transição-87milisegundos {
+  -webkit-transition: 87ms !important;
+  transition: 87ms !important;
+}
+
+.transição-87s, .transition-87s, .transition-87seconds, .transição-87segundos {
+  -webkit-transition: 87s !important;
+  transition: 87s !important;
+}
+
+.transição-88ms, .transition-88ms, .transition-88miliseconds, .transição-88milisegundos {
+  -webkit-transition: 88ms !important;
+  transition: 88ms !important;
+}
+
+.transição-88s, .transition-88s, .transition-88seconds, .transição-88segundos {
+  -webkit-transition: 88s !important;
+  transition: 88s !important;
+}
+
+.transição-89ms, .transition-89ms, .transition-89miliseconds, .transição-89milisegundos {
+  -webkit-transition: 89ms !important;
+  transition: 89ms !important;
+}
+
+.transição-89s, .transition-89s, .transition-89seconds, .transição-89segundos {
+  -webkit-transition: 89s !important;
+  transition: 89s !important;
+}
+
+.transição-90ms, .transition-90ms, .transition-90miliseconds, .transição-90milisegundos {
+  -webkit-transition: 90ms !important;
+  transition: 90ms !important;
+}
+
+.transição-90s, .transition-90s, .transition-90seconds, .transição-90segundos {
+  -webkit-transition: 90s !important;
+  transition: 90s !important;
+}
+
+.transição-91ms, .transition-91ms, .transition-91miliseconds, .transição-91milisegundos {
+  -webkit-transition: 91ms !important;
+  transition: 91ms !important;
+}
+
+.transição-91s, .transition-91s, .transition-91seconds, .transição-91segundos {
+  -webkit-transition: 91s !important;
+  transition: 91s !important;
+}
+
+.transição-92ms, .transition-92ms, .transition-92miliseconds, .transição-92milisegundos {
+  -webkit-transition: 92ms !important;
+  transition: 92ms !important;
+}
+
+.transição-92s, .transition-92s, .transition-92seconds, .transição-92segundos {
+  -webkit-transition: 92s !important;
+  transition: 92s !important;
+}
+
+.transição-93ms, .transition-93ms, .transition-93miliseconds, .transição-93milisegundos {
+  -webkit-transition: 93ms !important;
+  transition: 93ms !important;
+}
+
+.transição-93s, .transition-93s, .transition-93seconds, .transição-93segundos {
+  -webkit-transition: 93s !important;
+  transition: 93s !important;
+}
+
+.transição-94ms, .transition-94ms, .transition-94miliseconds, .transição-94milisegundos {
+  -webkit-transition: 94ms !important;
+  transition: 94ms !important;
+}
+
+.transição-94s, .transition-94s, .transition-94seconds, .transição-94segundos {
+  -webkit-transition: 94s !important;
+  transition: 94s !important;
+}
+
+.transição-95ms, .transition-95ms, .transition-95miliseconds, .transição-95milisegundos {
+  -webkit-transition: 95ms !important;
+  transition: 95ms !important;
+}
+
+.transição-95s, .transition-95s, .transition-95seconds, .transição-95segundos {
+  -webkit-transition: 95s !important;
+  transition: 95s !important;
+}
+
+.transição-96ms, .transition-96ms, .transition-96miliseconds, .transição-96milisegundos {
+  -webkit-transition: 96ms !important;
+  transition: 96ms !important;
+}
+
+.transição-96s, .transition-96s, .transition-96seconds, .transição-96segundos {
+  -webkit-transition: 96s !important;
+  transition: 96s !important;
+}
+
+.transição-97ms, .transition-97ms, .transition-97miliseconds, .transição-97milisegundos {
+  -webkit-transition: 97ms !important;
+  transition: 97ms !important;
+}
+
+.transição-97s, .transition-97s, .transition-97seconds, .transição-97segundos {
+  -webkit-transition: 97s !important;
+  transition: 97s !important;
+}
+
+.transição-98ms, .transition-98ms, .transition-98miliseconds, .transição-98milisegundos {
+  -webkit-transition: 98ms !important;
+  transition: 98ms !important;
+}
+
+.transição-98s, .transition-98s, .transition-98seconds, .transição-98segundos {
+  -webkit-transition: 98s !important;
+  transition: 98s !important;
+}
+
+.transição-99ms, .transition-99ms, .transition-99miliseconds, .transição-99milisegundos {
+  -webkit-transition: 99ms !important;
+  transition: 99ms !important;
+}
+
+.transição-99s, .transition-99s, .transition-99seconds, .transição-99segundos {
+  -webkit-transition: 99s !important;
+  transition: 99s !important;
+}
+
+.transição-100ms, .transition-100ms, .transition-100miliseconds, .transição-100milisegundos {
+  -webkit-transition: 100ms !important;
+  transition: 100ms !important;
+}
+
+.transição-100s, .transition-100s, .transition-100seconds, .transição-100segundos {
+  -webkit-transition: 100s !important;
+  transition: 100s !important;
 }
 /*# sourceMappingURL=main+reset.css.map */
