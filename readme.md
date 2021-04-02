@@ -52,6 +52,12 @@ Conteúdo
 
 <a href="https://github.com/davidlpc1/BrazilCss/blob/main/features.md">Abra features.md</a>
 
+### Docs
+
+<a href="https://github.com/davidlpc1/BrazilCss/blob/main/docs/">Abra a documentação</a>
+
+</div>
+
 ### Autor
 ---
 
